@@ -1,0 +1,139 @@
+ 
+Player : Man
+Score : 3 out of 5
+Percentage : 60%
+ 
+Player : Pooh
+Score : 1 out of 5
+Percentage : 20%
+ 
+Player : m
+Score : 1 out of 2
+Percentage : 50%
+ 
+Player : keen
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : ez
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : zad
+Score : 1 out of 2
+Percentage : 50%
+ 
+Player : z
+Score : 1 out of 2
+Percentage : 50%
+ 
+Player : a
+Score : 1 out of 2
+Percentage : 50%
+ 
+Player : df
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : w
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : e
+Score : 2 out of 2
+Percentage : 100%
+ 
+Player : 1
+Score : 1 out of 2
+Percentage : 50%
+ 
+Player : a
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : copter
+Score : 3 out of 5
+Percentage : 60%
+ 
+Player : jojo
+Score : 1 out of 2
+Percentage : 50%
+ 
+Player : a
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : zzzz
+Score : 0 out of 2
+Percentage : 0%
+ 
+Player : zz
+Score : 0 out of 2
+Percentage : 0%
+ 
+Player : a
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : s
+Score : 0 out of 0
+ 
+Player : sas
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : 3
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : Krit
+Score : 2 out of 5
+Percentage : 40%
+ 
+Player : Krit
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : CringeyMan
+Score : 1 out of 5
+Percentage : 20%
+ 
+Player : Krit
+Score : 1 out of 2
+Percentage : 50%
+ 
+Player : JojoHD
+Score : 3 out of 5
+Percentage : 60%
+ 
+Player : Iamdabest
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : Krit
+Score : 2 out of 5
+Percentage : 40%
+ 
+Player : Main
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : KeenTest
+Score : 1 out of 5
+Percentage : 20%
+ 
+Player : Run
+Score : 3 out of 5
+Percentage : 60%
+ 
+Player : Poohlast
+Score : 1 out of 5
+Percentage : 20%
+ 
+Player : zel
+Score : 0 out of 1
+Percentage : 0%
+ 
+Player : macz
+Score : 1 out of 1
+Percentage : 100%
